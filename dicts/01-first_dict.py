@@ -6,6 +6,7 @@ from ctypes.wintypes import HLOCAL
 
 
 English_to_spanish = {}#Crea un diccionario vacio
+
 English_to_spanish = {"one":"uno","two":"dos"}
 
 #Los elementos se agregan en pares, es decir llave-valor.
